@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-02-01 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Dr. Zhang has been selected as the 2023 Dean’s Distinguished Dissertation Award, UNC-Chapel Hill.
